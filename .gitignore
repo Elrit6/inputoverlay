@@ -1,0 +1,7 @@
+obj/
+SDL2.dll
+SDL2_image.dll
+SDL2_ttf.dll
+app.exe
+test.json
+Roboto-Regular.ttf
